@@ -1,0 +1,8 @@
+> javac Sample.java
+> java -classpath ".;sqlite-jdbc-(VERSION).jar" Sample   # in Windows
+or
+> java -classpath ".:sqlite-jdbc-(VERSION).jar" Sample   # in Mac or Linux
+name = leo
+id = 1
+name = yui
+id = 2
